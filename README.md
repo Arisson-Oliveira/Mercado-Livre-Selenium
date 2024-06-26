@@ -18,7 +18,7 @@ Este é um projeto em Python que utiliza Selenium para fazer scraping de informa
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-selenium-mercadolivre.git
+   git clone https://github.com/Arisson-Oliveira/Mercado-Livre-Selenium.git
 
 ## Observação
 
